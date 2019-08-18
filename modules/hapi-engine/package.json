@@ -12,7 +12,7 @@
     "@angular/common": "NG_VERSION",
     "@angular/core": "NG_VERSION",
     "@angular/platform-server": "NG_VERSION",
-    "hapi": "HAPI_VERSION"
+    "@hapi/hapi": "HAPI_VERSION"
   },
   "schematics": "./schematics/collection.json",
   "ng-update": {

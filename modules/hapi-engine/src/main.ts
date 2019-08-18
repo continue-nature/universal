@@ -6,7 +6,7 @@
  * found in the LICENSE file at https://angular.io/license
  */
 import * as fs from 'fs';
-import { Request, ResponseToolkit } from 'hapi';
+import { Request, ResponseToolkit } from '@hapi/hapi';
 
 import { NgModuleFactory, Type, CompilerFactory, Compiler, StaticProvider } from '@angular/core';
 import { ResourceLoader } from '@angular/compiler';
